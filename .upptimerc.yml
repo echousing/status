@@ -14,10 +14,10 @@ sites:
     url: https://support.echousing.org
   - name: Maintenance Help Desk
     url: https://maint.echousing.org
-  - name: ECHO MB Office
-    url: 206.195.76.113
-  - name: Nardmoor
-    url: 65.190.107.46
+  - name: Learn HMIS
+    url: https://learnhmis.echousing.org
+  - name: E-Sign
+    url: https://esign.echousing.org
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
