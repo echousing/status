@@ -4,17 +4,19 @@ repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: ECHO Site and Main VM
+    url: https://echousing.org
+    icon: https://echousing.org/wp-content/uploads/2019/02/cropped-ECHO-SQUARE-512-new-50x50.png
   - name: SC HMIS
     url: https://sp5.servicept.com/sc211/com.bowmansystems.sp5.core.ServicePoint/index.html
+    icon: https://sp5.servicept.com/sc211/com.bowmansystems.sp5.core.ServicePoint/images/favicon.ico
     expectedStatusCodes:
       - 200
   - name: SC HMIS Training
     url: https://sp5.servicept.com/sc211/com.bowmansystems.sp5.core.ServicePoint/index.html
+    icon: https://sp5.servicept.com/sc211/com.bowmansystems.sp5.core.ServicePoint/images/favicon.ico
     expectedStatusCodes:
       - 200
-  - name: ECHO Site and Main VM
-    url: https://echousing.org
-
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -23,13 +25,15 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://echousing.org/wp-content/uploads/echo-new-300-1.png
   name: ECHO Status Monitor
-  introTitle: "Monitoring Eastern Carolina Housing Organization Web Services"
-  introMessage: Using technology to benefit our community
+  introTitle: ECHO Web Services Monitor
+  introMessage: [Eastern Carolina Housing Organization](https://echousing.org) uses technology to benefit our community.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: Repo
       href: https://github.com/$OWNER/$REPO
+    - title: ECHO
+      href: https://echousing.org
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
