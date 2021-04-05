@@ -25,8 +25,8 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://echousing.org/wp-content/uploads/echo-new-300-1.png
   name: ECHO Status Monitor
-  introTitle: ECHO Web Services Monitor
-  introMessage: [Eastern Carolina Housing Organization](https://echousing.org) uses technology to benefit our community.
+  introTitle: "ECHO Web Services Monitor"
+  introMessage: "[Eastern Carolina Housing Organization](https://echousing.org) uses technology to benefit our community."
   navbar:
     - title: Status
       href: /
