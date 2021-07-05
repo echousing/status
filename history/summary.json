@@ -40,17 +40,17 @@
     "url": "https://sp5.servicept.com/sc211/com.bowmansystems.sp5.core.ServicePoint/index.html",
     "icon": "https://sp5.servicept.com/sc211/com.bowmansystems.sp5.core.ServicePoint/images/favicon.ico",
     "slug": "sc-hmis-training",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 52,
-    "timeDay": 40,
-    "timeWeek": 47,
-    "timeMonth": 51,
-    "timeYear": 52,
+    "time": 53,
+    "timeDay": 130,
+    "timeWeek": 69,
+    "timeMonth": 56,
+    "timeYear": 53,
     "dailyMinutesDown": {}
   }
 ]
