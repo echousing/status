@@ -5,7 +5,7 @@ repo: status # Your GitHub repository name
 # Add your sites here
 sites:
   - name: ECHO Site and Main VM
-    url: https://echousing.org
+    url: https://echomeless.org/wp-content/uploads/echo-email-143.png
     icon: https://echousing.org/wp-content/uploads/2019/02/cropped-ECHO-SQUARE-512-new-50x50.png
   - name: SC HMIS
     url: https://sp5.servicept.com/sc211/com.bowmansystems.sp5.core.ServicePoint/index.html
