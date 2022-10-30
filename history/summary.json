@@ -4,28 +4,30 @@
     "url": "https://echomeless.org/wp-content/uploads/echo-email-143.png",
     "icon": "https://echousing.org/wp-content/uploads/2019/02/cropped-ECHO-SQUARE-512-new-50x50.png",
     "slug": "echo-site-and-main-vm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 476,
-    "timeDay": 426,
-    "timeWeek": 558,
-    "timeMonth": 486,
+    "time": 475,
+    "timeDay": 320,
+    "timeWeek": 515,
+    "timeMonth": 477,
     "timeYear": 411,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-30": 1
+    }
   },
   {
     "name": "SC HMIS",
     "url": "https://sp5.servicept.com/sc211/com.bowmansystems.sp5.core.ServicePoint/index.html",
     "icon": "https://sp5.servicept.com/sc211/com.bowmansystems.sp5.core.ServicePoint/images/favicon.ico",
     "slug": "sc-hmis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 359,
@@ -34,6 +36,7 @@
     "timeMonth": 233,
     "timeYear": 345,
     "dailyMinutesDown": {
+      "2022-10-30": 1,
       "2022-09-27": 37
     }
   },
@@ -42,9 +45,9 @@
     "url": "https://sp5.servicept.com/sc211/com.bowmansystems.sp5.core.ServicePoint/index.html",
     "icon": "https://sp5.servicept.com/sc211/com.bowmansystems.sp5.core.ServicePoint/images/favicon.ico",
     "slug": "sc-hmis-training",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -54,6 +57,7 @@
     "timeMonth": 48,
     "timeYear": 71,
     "dailyMinutesDown": {
+      "2022-10-30": 0,
       "2022-09-27": 37
     }
   }
