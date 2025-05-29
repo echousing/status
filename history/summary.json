@@ -4,7 +4,7 @@
     "url": "https://echomeless.org/wp-content/uploads/echo-email-143.png",
     "icon": "https://echousing.org/wp-content/uploads/2019/02/cropped-ECHO-SQUARE-512-new-50x50.png",
     "slug": "echo-site-and-main-vm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 527,
     "timeMonth": 526,
     "timeYear": 536,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-29": 0
+    }
   },
   {
     "name": "SC HMIS",
