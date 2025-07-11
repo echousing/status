@@ -1,7 +1,7 @@
 url: https://sp5.servicept.com/sc211/com.bowmansystems.sp5.core.ServicePoint/index.html
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-07-11T17:15:59.881Z
+status: up
+code: 200
+responseTime: 111
+lastUpdated: 2025-07-11T17:38:14.345Z
 startTime: 2021-02-26T20:59:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
