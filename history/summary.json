@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 546,
-    "timeDay": 587,
-    "timeWeek": 536,
-    "timeMonth": 673,
+    "timeDay": 482,
+    "timeWeek": 506,
+    "timeMonth": 672,
     "timeYear": 546,
     "dailyMinutesDown": {
       "2025-05-29": 19
@@ -26,15 +26,15 @@
     "slug": "sc-hmis",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "98.56%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.19%",
-    "uptimeMonth": "98.89%",
-    "uptimeYear": "99.74%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "99.75%",
     "time": 824,
-    "timeDay": 516,
-    "timeWeek": 621,
-    "timeMonth": 633,
-    "timeYear": 917,
+    "timeDay": 429,
+    "timeWeek": 627,
+    "timeMonth": 611,
+    "timeYear": 918,
     "dailyMinutesDown": {
       "2025-08-01": 21,
       "2025-07-30": 27,
@@ -69,8 +69,7 @@
       "2024-11-15": 31,
       "2024-11-14": 36,
       "2024-10-06": 77,
-      "2024-09-24": 24,
-      "2024-08-03": 76
+      "2024-09-24": 24
     }
   },
   {
@@ -80,15 +79,15 @@
     "slug": "sc-hmis-training",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "98.59%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.36%",
-    "uptimeMonth": "98.94%",
-    "uptimeYear": "99.76%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "99.77%",
     "time": 420,
-    "timeDay": 168,
-    "timeWeek": 168,
-    "timeMonth": 255,
-    "timeYear": 511,
+    "timeDay": 133,
+    "timeWeek": 169,
+    "timeMonth": 237,
+    "timeYear": 512,
     "dailyMinutesDown": {
       "2025-08-01": 20,
       "2025-07-30": 26,
@@ -121,8 +120,7 @@
       "2024-11-15": 29,
       "2024-11-14": 32,
       "2024-10-06": 77,
-      "2024-09-24": 24,
-      "2024-08-03": 76
+      "2024-09-24": 24
     }
   }
 ]
