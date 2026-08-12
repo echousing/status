@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 583,
-    "timeDay": 653,
-    "timeWeek": 553,
-    "timeMonth": 554,
+    "timeDay": 551,
+    "timeWeek": 540,
+    "timeMonth": 560,
     "timeYear": 561,
     "dailyMinutesDown": {
       "2025-11-18": 197
@@ -24,23 +24,24 @@
     "url": "https://sp5.servicept.com/sc211/com.bowmansystems.sp5.core.ServicePoint/index.html",
     "icon": "https://sp5.servicept.com/sc211/com.bowmansystems.sp5.core.ServicePoint/images/favicon.ico",
     "slug": "sc-hmis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.92%",
-    "time": 928,
-    "timeDay": 1130,
-    "timeWeek": 988,
-    "timeMonth": 958,
-    "timeYear": 978,
+    "time": 927,
+    "timeDay": 774,
+    "timeWeek": 950,
+    "timeMonth": 955,
+    "timeYear": 979,
     "dailyMinutesDown": {
       "2025-10-05": 20,
       "2025-11-14": 15,
       "2025-11-18": 144,
       "2026-01-26": 37,
-      "2026-02-13": 196
+      "2026-02-13": 196,
+      "2026-08-12": 5
     }
   },
   {
@@ -48,22 +49,23 @@
     "url": "https://sp5.servicept.com/sc211/com.bowmansystems.sp5.core.ServicePoint/index.html",
     "icon": "https://sp5.servicept.com/sc211/com.bowmansystems.sp5.core.ServicePoint/images/favicon.ico",
     "slug": "sc-hmis-training",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 584,
-    "timeDay": 843,
-    "timeWeek": 850,
-    "timeMonth": 868,
-    "timeYear": 643,
+    "timeDay": 729,
+    "timeWeek": 820,
+    "timeMonth": 867,
+    "timeYear": 645,
     "dailyMinutesDown": {
       "2025-10-05": 20,
       "2025-11-18": 144,
       "2026-01-26": 36,
-      "2026-02-13": 196
+      "2026-02-13": 196,
+      "2026-08-12": 0
     }
   }
 ]
