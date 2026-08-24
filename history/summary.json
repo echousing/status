@@ -24,17 +24,17 @@
     "url": "https://sp5.servicept.com/sc211/com.bowmansystems.sp5.core.ServicePoint/index.html",
     "icon": "https://sp5.servicept.com/sc211/com.bowmansystems.sp5.core.ServicePoint/images/favicon.ico",
     "slug": "sc-hmis",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "98.55%",
-    "uptimeMonth": "99.31%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "98.33%",
+    "uptimeMonth": "99.26%",
     "uptimeYear": "99.86%",
-    "time": 925,
-    "timeDay": 1048,
-    "timeWeek": 934,
-    "timeMonth": 954,
-    "timeYear": 986,
+    "time": 924,
+    "timeDay": 911,
+    "timeWeek": 922,
+    "timeMonth": 949,
+    "timeYear": 985,
     "dailyMinutesDown": {
       "2025-10-05": 20,
       "2025-11-14": 15,
@@ -47,7 +47,7 @@
       "2026-08-18": 38,
       "2026-08-20": 55,
       "2026-08-22": 23,
-      "2026-08-24": 5
+      "2026-08-24": 28
     }
   },
   {
@@ -55,16 +55,16 @@
     "url": "https://sp5.servicept.com/sc211/com.bowmansystems.sp5.core.ServicePoint/index.html",
     "icon": "https://sp5.servicept.com/sc211/com.bowmansystems.sp5.core.ServicePoint/images/favicon.ico",
     "slug": "sc-hmis-training",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.88%",
-    "time": 593,
-    "timeDay": 975,
-    "timeWeek": 867,
-    "timeMonth": 863,
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.87%",
+    "time": 594,
+    "timeDay": 865,
+    "timeWeek": 858,
+    "timeMonth": 860,
     "timeYear": 669,
     "dailyMinutesDown": {
       "2025-10-05": 20,
@@ -77,7 +77,7 @@
       "2026-08-18": 33,
       "2026-08-20": 31,
       "2026-08-22": 18,
-      "2026-08-24": 0
+      "2026-08-24": 23
     }
   }
 ]
